@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there! 👋 I'm Rakesh M
 
-<!--
-**Rakeshm1218/rakeshm1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](link-to-your-banner-image)
 
-Here are some ideas to get you started:
+I'm a passionate MERN stack developer based in Coimbatore. I love building dynamic and interactive web applications using cutting-edge technologies. Here's a bit about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies I Work With:
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express
+- MongoDB
+
+
+## 📫 Let's Connect:
+- [GitHub](https://github.com/Rakeshm1218)
+- [LinkedIn](https://www.linkedin.com/in/rakesh-m-0b64072b0/)
+
+Feel free to reach out to me if you have any questions or just want to chat! 😊
