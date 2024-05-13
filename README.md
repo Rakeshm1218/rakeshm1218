@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Rakesh M
+# Hi there! 👋 I'm Rakesh 
 
 I'm a passionate MERN stack developer based in Coimbatore. I love building dynamic and interactive web applications using cutting-edge technologies. Here's a bit about me:
 
