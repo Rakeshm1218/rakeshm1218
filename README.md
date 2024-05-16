@@ -4,7 +4,7 @@ I'm a passionate MERN stack developer based in Coimbatore. I love building dynam
 
 ## 💻 Technologies I Work With:                                          
 - HTML
-- CSS
+- CSS (Bootstrap, Tailwind)
 - JavaScript
 - React
 - Node.js
